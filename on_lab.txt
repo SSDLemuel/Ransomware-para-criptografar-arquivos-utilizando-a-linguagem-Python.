@@ -1,0 +1,7 @@
+## Ao tentar executar os arquivos de criptografia, ocorreu um erro na biblioteca "pyaes", foi necessário simular um laboratório para rodar os scripts.
+
+## Seguem os comandos:
+
+>> python3 -m venv lab_crypto
+>> source lab_crypto/bin/activate
+>> pip install pyaes
