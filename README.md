@@ -9,4 +9,4 @@ Fazendo implementação de um ransomware utilizadno linguagem Python, consistem 
 
 # Observações
 Ocasionalmente, a biblioteca "pyaes" apresentou erro, portanto, foi necessário simular um ambiente de laboratório para continuar e utilizar a biblioteca, comandos estarão disponiveis no arquivo:
-- on_lab
+- on_lab.txt
